@@ -16,3 +16,4 @@ The app contains several cards with a brief description of the main ATC procedur
 - Created with Xcode and SwiftUI
 - MVVM structure
 - List positioning
+- Icons SF Symbols
